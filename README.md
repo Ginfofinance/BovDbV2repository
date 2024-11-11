@@ -17,24 +17,36 @@ Instituto de Matemática, Estatística e Física (IMEF) Universidade Federal do 
 
 *\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_*
 # **Download and Citation Request**
-The database, as well as the sample files, are available for download in the repository called “BovDBrepository”, licensed under CC BY-NC 4.0. In this repository, in the table by columns, we provide the arrangement of the data files and their relative content. It is worth noting that the database now has two versions, and for the version of this repository there are two main folders available: the first, called “BovdbV1”, contains the project database in its first version and the second, “Codes”, contains examples of accessing the database. All files related to the project are accessed through these folders and instructions for running a test example are provided in the readme file.
+The database, as well as the example files, are available for download in the repository called “BovDbV2repository”, licensed under CC BY-NC 4.0. In this repository, in the table by columns, we provide the arrangement of the data files and their relative content. It is worth mentioning that the database has two versions, expanding more on the content in the next topic "Versions", and for the version of this repository there are two main folders available: the first, called “BovdbV2”, contains the project database in its second version of the dataset where we present the update of all companies in B3 between 1995 to 2024, with the implementation and update of the tables including the Price5 table that has the 5-minute intraday data between January and June 2024. The “Codes” folder contains examples of accessing the database. All files related to the project are accessed through these folders, and instructions for running a test example are provided in the readme file.
 
 **Table 1. The overview of the provided git repository.**
 
 **Directory	Content**
 
-*BovDBrepository*	Repository root directory
+*BovDbV2repository*	Repository root directory
 
-*BovDBrepository/BovdbV1*	Database version 1.0 directory
+*BovDbV2repository/BovdbV2*	Database version 2.0 directory
 
-*BovDBrepository/Codes*	Folder with examples of access/use of the database
+*BovDbV2repository/BovdbV2/link_database_dropbox.txt* link to download the database in .rar from dropbox
+
+*BovDbV2repository/Codes*	Folder with examples of access/use of the database
 
 In case the BovDB is used for scientific or academic purposes, include a citation to this paper as following in Section “Reference”.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 # **Versions**
+This section covers the dataset versions. Our first version of the dataset is "BovdbV1" available at "https://github.com/Ginfofinance/BovDBrepository.git", in this version of the dataset we present daily data from all B3 companies. Table 2 provides the overview of the repository directory for the provided git content.
 
+**Table 2. Overview of the repository "https://github.com/Ginfofinance/BovDBrepository.git":**
+
+**Directory Contents**
+
+*BovDBrepository*	Repository root directory
+
+*BovDBrepository/BovdbV1*	Database version 1.0 directory
+
+*BovDBrepository/Codes*	Folder with examples of access/use of the database
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 # **Reference:**
