@@ -98,7 +98,7 @@ For the avoidance of doubt, this Section [6(b)](https://creativecommons.org/lic
 **Section 7 – Other Terms and Conditions.**
 
 1. The Licensor shall not be bound by any additional or different terms or conditions communicated by You unless expressly agreed.
-1. Any arrangements, understandings, or agreements regarding the Licensed Material not stated herein are separate from and independent of the terms and conditions of this Public License.
+1. Any arrangements, understandings, or agreements regarding the Licensed Material not stated herein are separate from and independent of the terms and conditions of this a Public License.
 
 **Section 8 – Interpretation.**
 
