@@ -17,7 +17,13 @@ Instituto de Matemática, Estatística e Física (IMEF) Universidade Federal do 
 
 *\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_*
 # **Download and Citation Request**
-The database, as well as the example files, are available for download in the repository called “BovDbV2repository”, licensed under CC BY-NC 4.0. In this repository, in the table by columns, we provide the arrangement of the data files and their relative content. It is worth mentioning that the database has two versions, expanding more on the content in the next topic "Versions", and for the version of this repository there are two main folders available: the first, called “BovdbV2”, contains the project database in its second version of the dataset where we present the update of all companies in B3 between 1995 to 2024, with the implementation and update of the tables including the Price5 table that has the 5-minute intraday data between January and June 2024. The “Codes” folder contains examples of accessing the database. All files related to the project are accessed through these folders, and instructions for running a test example are provided in the readme file.
+The database, as well as the example files, are available for download in the repository called “BovDbV2repository”, licensed under CC BY-NC 4.0. In this repository, in the table by columns, we provide the arrangement of the data files and their relative content. It is worth mentioning that the database has two versions, expanding more on the content in the next topic “Versions”, and for the version of this repository there are two main folders available: the first, called “BovdbV2”, contains two "pdf" files:
+
+*link_database_dropbox.pdf* refers to the file that describes the instructions for downloading the dataset via dropbox compressed in a ".rar" file
+
+*link_database_drive.pdf* refers to the file that describes the instructions for downloading the dataset via drive in a ".db" file
+
+The project database in its second version of the dataset where we present the update of all companies in B3 between 1995 and 2024, with the implementation and update of the tables including the Price5 table that has the 5-minute intraday data between January and June 2024. The “Codes” folder contains examples of accessing the database. All project-related files are accessed through these folders, and instructions for running a test example are provided in the readme file.
 
 **Table 1. The overview of the provided git repository.**
 
@@ -27,7 +33,9 @@ The database, as well as the example files, are available for download in the re
 
 *BovDbV2repository/BovdbV2*	Database version 2.0 directory
 
-*BovDbV2repository/BovdbV2/link_database_dropbox.txt* link to download the database in .rar from dropbox
+*BovDbV2repository/BovdbV2/link_database_dropbox.pdf* link to download the database in .rar from dropbox
+
+*BovDbV2repository/BovdbV2/link_database_drive.pdf* link to download the database in .db from drive
 
 *BovDbV2repository/Codes*	Folder with examples of access/use of the database
 
