@@ -1,6 +1,0 @@
-This file refers to the link to download the database version 2.0 "BovdbV2" from Dropbox.
-
-Copy the link to Dropbox: "https://www.dropbox.com/scl/fi/sris4tnltenf0twm20vt2/Database_define.rar?rlkey=0dnjx3xn7efdigc1neibe4kee&st=att3x9re&dl=0" and paste it into your browser.
-
-You do not need to have a Dropbox account to download the database. When you open the link, download it with a simple click:
-
