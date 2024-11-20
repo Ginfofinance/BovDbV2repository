@@ -21,8 +21,6 @@ The database, as well as the example files, are available for download in the re
 
 *link_database_dropbox.pdf* refers to the file that describes the instructions for downloading the dataset via dropbox compressed in a ".rar" file
 
-*link_database_drive.pdf* refers to the file that describes the instructions for downloading the dataset via drive in a ".db" file
-
 The project database in its second version of the dataset where we present the update of all companies in B3 between 1995 and 2024, with the implementation and update of the tables including the Price5 table ( that has the 5-minute intraday data between January and June 2024 ). The “Codes” folder contains examples of accessing the database. All project-related files are accessed through these folders, and instructions for running a test example are provided in the readme file.
 
 **Table 1. The overview of the provided git repository.**
@@ -34,8 +32,6 @@ The project database in its second version of the dataset where we present the u
 *BovDbV2repository/BovdbV2*	Database version 2.0 directory
 
 *BovDbV2repository/BovdbV2/link_database_dropbox.pdf* link to download the database in .rar from dropbox
-
-*BovDbV2repository/BovdbV2/link_database_drive.pdf* link to download the database in .db from drive
 
 *BovDbV2repository/Codes*	Folder with examples of access/use of the database
 
