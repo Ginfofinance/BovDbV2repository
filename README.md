@@ -21,7 +21,7 @@ The database, as well as the example files, are available for download in the re
 
 *link_database_dropbox.pdf* refers to the file that describes the instructions for downloading the dataset via dropbox compressed in a ".rar" file
 
-The project database in its second version of the dataset where we present the update of all companies in B3 between 1995 and 2024, with the implementation and update of the tables including the Price5 table ( that has the 5-minute intraday data between January and June 2024 ). The “Codes” folder contains examples of accessing the database. All project-related files are accessed through these folders, and instructions for running a test example are provided in the readme file.
+The project database is in its second version of the dataset where we present the update of all companies in B3 between 1995 and 2024, with the implementation and update of the tables including the Price5 table ( that has the 5-minute intraday data between January and June 2024 ). The “Codes” folder contains examples of accessing the database. All project-related files are accessed through these folders, and instructions for running a test example are provided in the readme file.
 
 **Table 1. The overview of the provided git repository.**
 
@@ -35,7 +35,7 @@ The project database in its second version of the dataset where we present the u
 
 *BovDbV2repository/Codes*	Folder with examples of access/use of the database
 
-In case the BovDB is used for scientific or academic purposes, include a citation to this paper as following in Section “Reference”.
+In case the BovDB is used for scientific or academic purposes, include a citation to this paper as follows in Section “Reference”.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -55,4 +55,5 @@ This section covers the dataset versions. Our first version of the dataset is "B
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 # **Reference:**
 "Cardoso, F., Malska, J., Ramiro, P., Lucca, G., Borges, E. N., Mattos, V. d., and Berri, R. (2021). Bovdb: The data set of stock quotes for machine learning on all companies from b3 between 1995 and 2020. In *Brazilian Symposium on Databases - Dataset Showcase"*.  
+
 
